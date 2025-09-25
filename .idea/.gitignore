@@ -1,6 +1,6 @@
 *
 
 !*.cpp
-!*.h   # 필요하다면 헤더도 추가
+!*.h
 !.gitignore
 !README.md
